@@ -18,4 +18,4 @@ React Native:
 Description for projects:
   - I will create new portfolio using React. I will also redesign it to look better!
   - OneCryptoWallet will be a nice and simple crypto app using free crypto API's. Idea behind the app will be that I would have more clear way of seeing all of my crypto in one place.
-  - BudgetPlanner will be a app for me and my girlfriend to use to plan our money usage. App will allow for you to add monthly recurring expenses, montly sallary and other incoms, other expenses. You can also add a plan on how much you want to save money in a month and the app will calculate daily useage that will be caculated on monthly costs and other expenses that are marked to the app.
+  - BudgetPlanner will be a app for me and my girlfriend to use to plan our money usage. App will allow for you to add monthly recurring expenses, monthly incoms and other expenses. You can also add a plan on how much you want to save money in a month and the app will calculate daily useage that will be caculated on monthly costs and other expenses that are marked to the app.
